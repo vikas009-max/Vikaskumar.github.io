@@ -465,6 +465,12 @@ pre {
     .container {
       max-width: 1140px; } }
 
+/* Styles for screens smaller than or equal to 600px */
+@media (max-width: 600px) {
+    .hide-on-mobile {
+        display: none; /* Hide the image on mobile devices */
+    }
+}  
 .container-fluid {
   width: 100%;
   padding-right: 15px;
