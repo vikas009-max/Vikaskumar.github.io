@@ -406,6 +406,7 @@ mark,
   }
 }
 
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -476,7 +477,7 @@ pre {
       max-width: 1140px; } }
 
 .container-fluid {
-  width: 100%;
+  width: 90%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -508,7 +509,7 @@ pre {
   position: relative;
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px; }
+  padding-left: 25px; }
 
 .col {
   -ms-flex-preferred-size: 0;
